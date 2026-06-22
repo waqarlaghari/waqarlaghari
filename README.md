@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Waqar
+# 👋 Hi, I'm Waqar Hussain Laghari
 
 🚀 Solution Architect | ASP.NET Core | Clean Architecture  
 🌍 Based in Karachi, Pakistan  
